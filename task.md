@@ -1,5 +1,5 @@
 # Task list
-- [x] Initial project
+- [ ] Initial project
 - [ ] Components
     - [ ] Accounts
         - [ ] Login
@@ -28,9 +28,9 @@
         - [ ] Update
         
     - [ ] Transfers
-            - [ ] List
-            - [ ] Add
-            - [ ] Update
+        - [ ] List
+        - [ ] Add
+        - [ ] Update
     
     - [ ] Support
         
